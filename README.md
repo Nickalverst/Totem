@@ -1,6 +1,8 @@
 # Totem-luminária
 
-Este é o projeto final apresentado para a disciplina de Introdução à Práticas de Laboratório em Eletricidade e Eletrônica do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná (UTFPR), ministrada pelo professor Nelson Garcia de Paula. 
+Este é o projeto final apresentado para a disciplina de Introdução à Práticas de Laboratório em Eletricidade e Eletrônica do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná (UTFPR), ministrada pelo professor Nelson Garcia de Paula.
+
+O presente código anima uma luminária com luzes de LED que liga, desliga e muda de cor através de palmas. Bate-se duas palmas para ligar ou desligar e uma palma para alternar as cores, que ficam num ciclo fechado entre as cores branco (padrão), amarelo, verde, roxo, ciano, verde, azul.
 
 ### Materiais
 
